@@ -1,0 +1,25 @@
+{
+  "perguntas": [ 
+  {
+    "descricao": "Qual o quarto planeta do Sistema Solar?",
+	  "verdadeiro": "Marte",
+	  "falso_a": "Terra",
+	  "falso_b": "Vênus",
+	  "falso_c": "Mercúrio"
+  },
+	{
+    "descricao": "Quantos elementos químicos existem na tabela periódica?",
+	  "verdadeiro": "118",
+	  "falso_a": "100",
+	  "falso_b": "109",
+	  "falso_c": "127"
+    },	
+	{
+      "descricao": "Qual é o maior mamifero do mundo?",
+	  "verdadeiro": "Baleia",
+	  "falso_a": "Elefante",
+	  "falso_b": "Girafa",
+	  "falso_c": "Rinoceronte"
+    }
+  ]
+}
